@@ -22,6 +22,4 @@ Escaneie o QR Code com o app **Expo Go** no celular (Android ou iOS).
 Também é possível colar o conteúdo de `App.js` em https://snack.expo.dev para testar no navegador.
 
 ## Capturas de tela
-<!-- Adicione as imagens em uma pasta screenshots/ e descomente as linhas abaixo -->
-<!-- ![Tela inicial](screenshots/tela1.png) -->
-<!-- ![Resultado](screenshots/tela2.png) -->
+![App funcionando no celular](screenshots/tela.png)
