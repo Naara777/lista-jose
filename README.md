@@ -23,3 +23,18 @@ npm install
 npx expo start
 ```
 Escaneie o QR Code com o app **Expo Go**, ou cole o `App.js` em https://snack.expo.dev.
+
+## Capturas de tela
+
+| Questão 01 – Hidratação Diária | Questão 02 – Média do Estudante | Questão 03 – Controle de Estoque |
+|---|---|---|
+| <img src="questao01-hidratacao/screenshots/tela.png" width="220"> | <img src="questao02-media-notas/screenshots/tela.png" width="220"> | <img src="questao03-controle-estoque/screenshots/tela.png" width="220"> |
+
+| Questão 04 – Conversor de Temperatura | Questão 05 – Simulador Bancário | Questão 06 – Eleição Estudantil |
+|---|---|---|
+| <img src="questao04-conversor-temperatura/screenshots/tela.png" width="220"> | <img src="questao05-simulador-bancario/screenshots/tela.png" width="220"> | <img src="questao06-eleicao-estudantil/screenshots/tela.png" width="220"> |
+
+| Questão 07 – Calculadora de Desconto | Questão 08 – Cadastro de Estudantes | Questão 09 – Lanchonete |
+|---|---|---|
+| <img src="questao07-calculadora-desconto/screenshots/tela.png" width="220"> | <img src="questao08-cadastro-estudantes/screenshots/tela.png" width="220"> | <img src="questao09-lanchonete-pedidos/screenshots/tela.png" width="220"> |
+
