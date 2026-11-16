@@ -1,6 +1,6 @@
 # Questão 01 – Hidratação Diária
 
-Lista de Exercício 01 – React Native · Desenvolvimento para Dispositivos Móveis (UFRA)
+Lista de Exercício 01 – React Native · Desenvolvimento para Dispositivos Móveis 
 
 ## Descrição
 Calcula a estimativa diária de água (35 mL por kg) a partir do peso.
